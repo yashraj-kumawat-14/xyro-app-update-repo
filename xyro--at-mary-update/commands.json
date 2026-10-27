@@ -14,14 +14,14 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "10",
+        "show_webpage_till_seconds": 10,
         "play_song": false,
         "song_path": ""
       }
     },
     {
       "key": "tell me about joseph sir",
-      "answer": "Joseph sir is the bishop of jaipur",
+      "answer": "Joseph sir is the bishop of jaipur and chief guest at saint mary school's symphonia annual function",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -33,13 +33,89 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "10",
+        "show_webpage_till_seconds": 12,
         "play_song": false,
         "song_path": ""
       }
     },
     {
       "key": "tell me about captain swati sharma",
+      "answer": "Captain Swati Sharma is a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services. she is also chief guest of saint mary school's symphonia annual function",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": true,
+        "image_path": "images/captain_swati_sharma.jpeg",
+        "show_image_till_seconds": 12,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 10,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "who is joseph sir",
+      "answer": "Joseph sir is the bishop of jaipur. he is also chief guest at saint mary school's symphonia annual function",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": true,
+        "image_path": "images/joseph_sir.png",
+        "show_image_till_seconds": 7,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 10,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "who is doris mam",
+      "answer": "Doris mam is sister at saint mary school. she is also chief guest at saint mary school's symphonia annual function",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": true,
+        "image_path": "images/doris_mam.png",
+        "show_image_till_seconds": 7,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 10,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "tell me about doris mam",
+      "answer": "Doris mam is sister at saint mary school. she is also chief guest at saint mary school's symphonia annual function",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": true,
+        "image_path": "images/doris_mam.png",
+        "show_image_till_seconds": 7,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 10,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "who is captain swati sharma",
       "answer": "Captain Swati Sharma (Retd.) is a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services.",
       "action": {
         "motion": false,
@@ -52,7 +128,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "10",
+        "show_webpage_till_seconds": 10,
         "play_song": false,
         "song_path": ""
       }
@@ -71,7 +147,7 @@
         "video_playback_type": "once",
         "show_webpage": true,
         "webpage_path": "html_pages/user_manual.html",
-        "show_webpage_till_seconds": "15",
+        "show_webpage_till_seconds": 15,
         "play_song": false,
         "song_path": ""
       }
@@ -90,7 +166,7 @@
         "video_playback_type": "once",
         "show_webpage": true,
         "webpage_path": "html_pages/user_manual.html",
-        "show_webpage_till_seconds": "15",
+        "show_webpage_till_seconds": 15,
         "play_song": false,
         "song_path": ""
       }
@@ -109,7 +185,7 @@
         "video_playback_type": "once",
         "show_webpage": true,
         "webpage_path": "html_pages/user_manual.html",
-        "show_webpage_till_seconds": "15",
+        "show_webpage_till_seconds": 15,
         "play_song": false,
         "song_path": ""
       }
@@ -128,7 +204,7 @@
         "video_playback_type": "once",
         "show_webpage": true,
         "webpage_path": "html_pages/user_manual.html",
-        "show_webpage_till_seconds": "15",
+        "show_webpage_till_seconds": 15,
         "play_song": false,
         "song_path": ""
       }
@@ -147,7 +223,7 @@
         "video_playback_type": "once",
         "show_webpage": true,
         "webpage_path": "html_pages/user_manual.html",
-        "show_webpage_till_seconds": "15",
+        "show_webpage_till_seconds": 15,
         "play_song": false,
         "song_path": ""
       }
@@ -166,7 +242,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -185,7 +261,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -204,7 +280,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -223,7 +299,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -242,14 +318,14 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
     },
     {
       "key": "hello what is your name",
-      "answer": "Hello I am david. welcome to the sain mary school's annual function",
+      "answer": "Hello I am david. welcome to the saint mary school's annual function",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -261,7 +337,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -280,7 +356,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -299,7 +375,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -318,7 +394,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -337,7 +413,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -356,7 +432,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -375,7 +451,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -394,7 +470,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -413,7 +489,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -432,7 +508,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -451,7 +527,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -470,7 +546,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -489,7 +565,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -508,7 +584,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -527,7 +603,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -546,7 +622,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -565,7 +641,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -584,7 +660,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -603,7 +679,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -622,7 +698,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -641,14 +717,14 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
     },
     {
       "key": "who created you",
-      "answer": "I was created by a team of engineers in ikit lab from padmanabh innovations jaipur rajastha. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj",
+      "answer": "I was created by a team of engineers in ikit lab from padmanabh innovations jaipur rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -660,7 +736,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -679,7 +755,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -698,7 +774,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -717,7 +793,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -736,7 +812,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -755,7 +831,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -774,7 +850,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -793,7 +869,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -812,7 +888,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -831,7 +907,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -850,7 +926,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -869,7 +945,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -888,7 +964,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -907,7 +983,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -926,7 +1002,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -945,7 +1021,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -964,7 +1040,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -983,7 +1059,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1002,7 +1078,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1021,7 +1097,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1040,7 +1116,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1059,7 +1135,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1078,7 +1154,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1097,7 +1173,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1116,7 +1192,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1135,7 +1211,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1154,7 +1230,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1173,7 +1249,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1192,7 +1268,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1211,7 +1287,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1230,7 +1306,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1249,7 +1325,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1268,7 +1344,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1287,7 +1363,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1306,7 +1382,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1325,7 +1401,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1344,7 +1420,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1363,7 +1439,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1382,7 +1458,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1401,7 +1477,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1420,7 +1496,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1439,7 +1515,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1458,7 +1534,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1477,7 +1553,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1496,7 +1572,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1515,7 +1591,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1534,7 +1610,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1553,7 +1629,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1572,7 +1648,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1591,7 +1667,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1610,7 +1686,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1629,7 +1705,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1648,7 +1724,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -1667,7 +1743,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": true,
         "song_path": "songs/shape_of_you.mp3"
       }
@@ -1686,7 +1762,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": true,
         "song_path": "songs/cheap_thrills.mp3"
       }
@@ -1705,7 +1781,7 @@
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": "songs/shape_of_you.mp3"
       }
