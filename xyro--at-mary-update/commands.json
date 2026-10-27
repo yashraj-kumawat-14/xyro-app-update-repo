@@ -2,7 +2,11 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Hi there how can i help you"
+      "answer": "Hi there welcome to annual function at saint mary school. have fun"
+    },
+    {
+      "key": "say hello",
+      "answer": "Hi there welcome to annual function at saint mary school. have fun"
     },
     {
       "key": "who is current bisop of jaipur",
