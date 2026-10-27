@@ -2,347 +2,1618 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Hi there welcome to annual function at saint mary school. have fun"
+      "answer": "Hello! How can I help you today?",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
-      "key": "say hello",
-      "answer": "Hi there welcome to annual function at saint mary school. have fun"
+      "key": "show me user manual",
+      "answer": "ok user manual is shown on the screen",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": true,
+        "webpage_path": "html_pages/user_manual.html",
+        "show_webpage_till_seconds": "15",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
-      "key": "who is current bisop of jaipur",
-      "answer": "The current bishop of jaipur is joseph sir"
+      "key": "show user manual",
+      "answer": "ok user manual is shown on the screen",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": true,
+        "webpage_path": "html_pages/user_manual.html",
+        "show_webpage_till_seconds": "15",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
-      "key": "tell me about joseph sir",
-      "answer": "Joseph sir is the current bishop of jaipur and chief guest at annual function at our st. mary school"
+      "key": "open user manual",
+      "answer": "ok user manual is shown on the screen",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": true,
+        "webpage_path": "html_pages/user_manual.html",
+        "show_webpage_till_seconds": "15",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
-      "key": "tell me about captain swati sharma mam",
-      "answer": "Captain Swati Sharma was a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services."
+      "key": "open the user manual",
+      "answer": "ok user manual is shown on the screen",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": true,
+        "webpage_path": "html_pages/user_manual.html",
+        "show_webpage_till_seconds": "15",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
-      "key": "who is captain swati sharma mam",
-      "answer": "Captain Swati Sharma was a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services."
-    },
-    {
-      "key": "who is swati mam",
-      "answer": "Captain Swati Sharma was a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services."
+      "key": "user manual",
+      "answer": "ok user manual is shown on the screen",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": true,
+        "webpage_path": "html_pages/user_manual.html",
+        "show_webpage_till_seconds": "15",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is yashraj",
-      "answer": "yashraj is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+      "answer": "yashraj is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is rahul singh sir",
-      "answer": "Rahul Singh Sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+      "answer": "Rahul Singh Sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is nitish sir",
-      "answer": "nitish sharma sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+      "answer": "nitish sharma sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is shruti mam",
-      "answer": "Shruti mam is a co-founder of ikit lab from padmanabh innovations jaipur rajasthan."
+      "answer": "Shruti mam is a co-founder of ikit lab from padmanabh innovations jaipur rajasthan.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is yashraj sir",
-      "answer": "yashraj sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+      "answer": "yashraj sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "hello what is your name",
-      "answer": "Hello I am david. How can I help you today?"
+      "answer": "Hello I am david. How can I help you today?",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is garud club",
-      "answer": "The GARUD Aeromodelling Club is a specialized student program offered through I-KIT STEAM LAB (powered by Padmanabh Innovations), which sets up NEP 2020- and CBSE-aligned STEAM, robotics, and composite skill labs in schools across"
+      "answer": "The GARUD Aeromodelling Club is a specialized student program offered through I-KIT STEAM LAB (powered by Padmanabh Innovations), which sets up NEP 2020- and CBSE-aligned STEAM, robotics, and composite skill labs in schools across",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about garud aeromodelling club",
-      "answer": "The GARUD Aeromodelling Club is a specialized student program offered through I-KIT STEAM LAB (powered by Padmanabh Innovations), which sets up NEP 2020- and CBSE-aligned STEAM, robotics, and composite skill labs in schools across"
+      "answer": "The GARUD Aeromodelling Club is a specialized student program offered through I-KIT STEAM LAB (powered by Padmanabh Innovations), which sets up NEP 2020- and CBSE-aligned STEAM, robotics, and composite skill labs in schools across",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "hi",
-      "answer": "Hello! How can I help you today?"
+      "answer": "Hello! How can I help you today?",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "hey",
-      "answer": "Hello! How can I help you today?"
+      "answer": "Hello! How can I help you today?",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "good morning",
-      "answer": "Good morning! I hope you are having a wonderful day."
+      "answer": "Good morning! I hope you are having a wonderful day.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "good afternoon",
-      "answer": "Good afternoon! How can I help you today?"
+      "answer": "Good afternoon! How can I help you today?",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "good evening",
-      "answer": "Good evening! It is nice to talk to you."
+      "answer": "Good evening! It is nice to talk to you.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "how are you",
-      "answer": "I am doing great! Thank you for asking. How can I help you?"
+      "answer": "I am doing great! Thank you for asking. How can I help you?",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "how are you doing",
-      "answer": "I am doing well and ready to assist you."
+      "answer": "I am doing well and ready to assist you.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what are you doing",
-      "answer": "I am here to answer your questions and help you learn new things."
+      "answer": "I am here to answer your questions and help you learn new things.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "thank you",
-      "answer": "You are most welcome! I am always happy to help."
+      "answer": "You are most welcome! I am always happy to help.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "thanks",
-      "answer": "You are welcome!"
+      "answer": "You are welcome!",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "goodbye",
-      "answer": "Goodbye! Have a great day!"
+      "answer": "Goodbye! Have a great day!",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "bye",
-      "answer": "Goodbye! See you again soon."
+      "answer": "Goodbye! See you again soon.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "see you later",
-      "answer": "See you later! Have a wonderful day."
+      "answer": "See you later! Have a wonderful day.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is your name",
-      "answer": "I am David, your offline voice assistant powered by local JSON commands and offline LLM inference."
+      "answer": "I am David, your offline voice assistant powered by local JSON commands and offline LLM inference.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me your name",
-      "answer": "My name is David. I am your offline voice assistant."
+      "answer": "My name is David. I am your offline voice assistant.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who are you",
-      "answer": "I am David, an offline voice assistant designed to answer questions and provide useful information."
+      "answer": "I am David, an offline voice assistant designed to answer questions and provide useful information.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "introduce yourself",
-      "answer": "Hello! I am David, your offline voice assistant. I can answer questions about education, robotics, STEAM, and my creators."
+      "answer": "Hello! I am David, your offline voice assistant. I can answer questions about education, robotics, STEAM, and my creators.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what can you do",
-      "answer": "I can answer questions, provide information about my creators and educational programs, and help you learn new things."
+      "answer": "I can answer questions, provide information about my creators and educational programs, and help you learn new things.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who created you",
-      "answer": "I was created by a team of engineers in ikit lab from padmanabh innovations jaipur rajastha. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+      "answer": "I was created by a team of engineers in ikit lab from padmanabh innovations jaipur rajastha. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who made you",
-      "answer": "I was created by a team of engineers at I-KIT Lab from Padmanabh Innovations in Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+      "answer": "I was created by a team of engineers at I-KIT Lab from Padmanabh Innovations in Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who developed you",
-      "answer": "I was developed by the engineering team at I-KIT Lab, Padmanabh Innovations, Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+      "answer": "I was developed by the engineering team at I-KIT Lab, Padmanabh Innovations, Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is your creator",
-      "answer": "My creators are the engineering team at I-KIT Lab from Padmanabh Innovations.The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+      "answer": "My creators are the engineering team at I-KIT Lab from Padmanabh Innovations.The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about your creators",
-      "answer": "I was created by the engineering team at I-KIT Lab, Padmanabh Innovations, based in Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+      "answer": "I was created by the engineering team at I-KIT Lab, Padmanabh Innovations, based in Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "where were you created",
-      "answer": "I was created at I-KIT Lab by the team at Padmanabh Innovations in Jaipur, Rajasthan."
+      "answer": "I was created at I-KIT Lab by the team at Padmanabh Innovations in Jaipur, Rajasthan.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about st. mary school",
-      "answer": "saint mary school is a very beautiful school located in jagatpura, jaipur rajasthan, here students learns many new things."
+      "answer": "saint mary school is a very beautiful school located in jagatpura, jaipur rajasthan, here students learns many new things.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is st. mary school",
-      "answer": "saint Mary School is a school located in Jagatpura, Jaipur, Rajasthan, where students learn many new things."
+      "answer": "saint Mary School is a school located in Jagatpura, Jaipur, Rajasthan, where students learn many new things.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "where is st. mary school located",
-      "answer": "saint mary school located in jagatpura, jaipur rajasthan."
+      "answer": "saint mary school located in jagatpura, jaipur rajasthan.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "where is st. mary school",
-      "answer": "St. Mary School is located in Jagatpura, Jaipur, Rajasthan."
+      "answer": "St. Mary School is located in Jagatpura, Jaipur, Rajasthan.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "which city is st. mary school in",
-      "answer": "St. Mary School is located in Jaipur, Rajasthan."
+      "answer": "St. Mary School is located in Jaipur, Rajasthan.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what do students learn at st. mary school",
-      "answer": "Students at St. Mary School learn new concepts, develop skills, and participate in educational activities."
+      "answer": "Students at St. Mary School learn new concepts, develop skills, and participate in educational activities.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about the students of st. mary school",
-      "answer": "St. Mary School provides students with opportunities to learn new things and develop their knowledge and skills."
+      "answer": "St. Mary School provides students with opportunities to learn new things and develop their knowledge and skills.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about padmanabh innovations",
-      "answer": "Padmanabh Innovations LLP is an Indian educational and technology startup based in Jaipur, Rajasthan, that focuses on K-12 STEAM (Science, Technology, Engineering, Art, and Mathematics) education, robotics, and experiential learning"
+      "answer": "Padmanabh Innovations LLP is an Indian educational and technology startup based in Jaipur, Rajasthan, that focuses on K-12 STEAM (Science, Technology, Engineering, Art, and Mathematics) education, robotics, and experiential learning",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is padmanabh innovations",
-      "answer": "Padmanabh Innovations LLP is an educational and technology startup based in Jaipur, Rajasthan, focused on STEAM education, robotics, and experiential learning."
+      "answer": "Padmanabh Innovations LLP is an educational and technology startup based in Jaipur, Rajasthan, focused on STEAM education, robotics, and experiential learning.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what does padmanabh innovations do",
-      "answer": "Padmanabh Innovations works in educational technology, robotics, STEAM education, and experiential learning for students."
+      "answer": "Padmanabh Innovations works in educational technology, robotics, STEAM education, and experiential learning for students.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "where is padmanabh innovations located",
-      "answer": "Padmanabh Innovations LLP is based in Jaipur, Rajasthan, India."
+      "answer": "Padmanabh Innovations LLP is based in Jaipur, Rajasthan, India.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about the work of padmanabh innovations",
-      "answer": "Padmanabh Innovations focuses on helping students learn through science, technology, engineering, arts, mathematics, robotics, and practical activities."
+      "answer": "Padmanabh Innovations focuses on helping students learn through science, technology, engineering, arts, mathematics, robotics, and practical activities.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is the main goal of padmanabh innovations",
-      "answer": "Its goal is to make education more engaging through hands-on learning, robotics, technology, and interdisciplinary STEAM activities."
+      "answer": "Its goal is to make education more engaging through hands-on learning, robotics, technology, and interdisciplinary STEAM activities.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is padmanabh innovations famous for",
-      "answer": "Padmanabh Innovations focuses on STEAM education, robotics, and experiential learning in schools."
+      "answer": "Padmanabh Innovations focuses on STEAM education, robotics, and experiential learning in schools.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is gopal krishnan sharma sir",
-      "answer": "Gopal krishnan sharma sir is the ceo of padmanabh innovations llp company jaipur rajasthan"
+      "answer": "Gopal krishnan sharma sir is the ceo of padmanabh innovations llp company jaipur rajasthan",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about gopal krishnan sharma sir",
-      "answer": "Gopal Krishnan Sharma Sir is the CEO of Padmanabh Innovations LLP, based in Jaipur, Rajasthan."
+      "answer": "Gopal Krishnan Sharma Sir is the CEO of Padmanabh Innovations LLP, based in Jaipur, Rajasthan.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who is the ceo of padmanabh innovations",
-      "answer": "Gopal Krishnan Sharma Sir is the CEO of Padmanabh Innovations LLP in Jaipur, Rajasthan."
+      "answer": "Gopal Krishnan Sharma Sir is the CEO of Padmanabh Innovations LLP in Jaipur, Rajasthan.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is the role of gopal krishnan sharma sir",
-      "answer": "Gopal Krishnan Sharma Sir serves as the CEO of Padmanabh Innovations LLP."
+      "answer": "Gopal Krishnan Sharma Sir serves as the CEO of Padmanabh Innovations LLP.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about ikit lab",
-      "answer": "I-KIT Lab is an educational and technological learning environment associated with Padmanabh Innovations, where students explore robotics, science, engineering, and technology."
+      "answer": "I-KIT Lab is an educational and technological learning environment associated with Padmanabh Innovations, where students explore robotics, science, engineering, and technology.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is ikit lab",
-      "answer": "I-KIT Lab is a hands-on learning environment where students can explore science, technology, engineering, robotics, and innovation."
+      "answer": "I-KIT Lab is a hands-on learning environment where students can explore science, technology, engineering, robotics, and innovation.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what do students do in ikit lab",
-      "answer": "Students can explore robotics, build projects, experiment with technology, and develop problem-solving skills through hands-on learning."
+      "answer": "Students can explore robotics, build projects, experiment with technology, and develop problem-solving skills through hands-on learning.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is ikit steam lab",
-      "answer": "The I-KIT STEAM Lab (developed by Padmanabh Innovations) is an innovative, transdisciplinary educational ecosystem set up in K-12 schools across India, with its headquarters in Jaipur, Rajasthan"
+      "answer": "The I-KIT STEAM Lab (developed by Padmanabh Innovations) is an innovative, transdisciplinary educational ecosystem set up in K-12 schools across India, with its headquarters in Jaipur, Rajasthan",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "tell me about ikit steam lab",
-      "answer": "The I-KIT STEAM Lab is an educational ecosystem developed by Padmanabh Innovations that promotes hands-on STEAM learning in schools across India."
+      "answer": "The I-KIT STEAM Lab is an educational ecosystem developed by Padmanabh Innovations that promotes hands-on STEAM learning in schools across India.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is the purpose of ikit steam lab",
-      "answer": "The purpose of I-KIT STEAM Lab is to help students understand concepts through practical activities, experimentation, robotics, and interdisciplinary learning."
+      "answer": "The purpose of I-KIT STEAM Lab is to help students understand concepts through practical activities, experimentation, robotics, and interdisciplinary learning.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "who developed ikit steam lab",
-      "answer": "The I-KIT STEAM Lab was developed by Padmanabh Innovations."
+      "answer": "The I-KIT STEAM Lab was developed by Padmanabh Innovations.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what can students learn in ikit steam lab",
-      "answer": "Students can learn science, technology, engineering, robotics, creative design, mathematics, and problem-solving through practical projects."
+      "answer": "Students can learn science, technology, engineering, robotics, creative design, mathematics, and problem-solving through practical projects.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "why is ikit steam lab important",
-      "answer": "I-KIT STEAM Lab encourages curiosity, creativity, critical thinking, collaboration, and practical learning among students."
+      "answer": "I-KIT STEAM Lab encourages curiosity, creativity, critical thinking, collaboration, and practical learning among students.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is steam",
-      "answer": "STEAM is an educational framework that stands for Science, Technology, Engineering, the Arts, and Mathematics. Unlike traditional teaching methods that treat subjects in isolated compartments, STEAM integrates these five disciplines into a unified, inquiry-based learning experience. Adding the Arts (which includes visual arts, humanities, music, design, and drama) to the core technical pillars of STEM brings human empathy, design thinking, and creative expression into problem-solving."
+      "answer": "STEAM is an educational framework that stands for Science, Technology, Engineering, the Arts, and Mathematics. Unlike traditional teaching methods that treat subjects in isolated compartments, STEAM integrates these five disciplines into a unified, inquiry-based learning experience. Adding the Arts (which includes visual arts, humanities, music, design, and drama) to the core technical pillars of STEM brings human empathy, design thinking, and creative expression into problem-solving.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what does steam stand for",
-      "answer": "STEAM stands for Science, Technology, Engineering, Arts, and Mathematics."
+      "answer": "STEAM stands for Science, Technology, Engineering, Arts, and Mathematics.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is steam education",
-      "answer": "STEAM education combines science, technology, engineering, arts, and mathematics to help students learn through practical activities, creativity, and problem-solving."
+      "answer": "STEAM education combines science, technology, engineering, arts, and mathematics to help students learn through practical activities, creativity, and problem-solving.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "why do we learn steam",
-      "answer": "STEAM education helps students develop creativity, logical thinking, teamwork, and problem-solving skills through practical learning."
+      "answer": "STEAM education helps students develop creativity, logical thinking, teamwork, and problem-solving skills through practical learning.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is the difference between stem and steam",
-      "answer": "STEM stands for Science, Technology, Engineering, and Mathematics, while STEAM also includes the Arts to encourage creativity and design thinking."
+      "answer": "STEM stands for Science, Technology, Engineering, and Mathematics, while STEAM also includes the Arts to encourage creativity and design thinking.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "why is art included in steam",
-      "answer": "Arts is included in STEAM to encourage creativity, imagination, design thinking, and innovative approaches to solving problems."
+      "answer": "Arts is included in STEAM to encourage creativity, imagination, design thinking, and innovative approaches to solving problems.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what are the five components of steam",
-      "answer": "The five components of STEAM are Science, Technology, Engineering, Arts, and Mathematics."
+      "answer": "The five components of STEAM are Science, Technology, Engineering, Arts, and Mathematics.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "give me an example of steam",
-      "answer": "Building a robot combines science to understand movement, technology to use electronics, engineering to design the robot, arts to create its appearance, and mathematics to calculate measurements."
+      "answer": "Building a robot combines science to understand movement, technology to use electronics, engineering to design the robot, arts to create its appearance, and mathematics to calculate measurements.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "how does steam help students",
-      "answer": "STEAM helps students connect classroom knowledge with real-world problems and develop creativity, teamwork, critical thinking, and practical skills."
+      "answer": "STEAM helps students connect classroom knowledge with real-world problems and develop creativity, teamwork, critical thinking, and practical skills.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is robotics",
-      "answer": "Robotics is a field of technology that involves designing, building, programming, and operating robots."
+      "answer": "Robotics is a field of technology that involves designing, building, programming, and operating robots.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is a robot",
-      "answer": "A robot is a machine that can perform tasks automatically or through programmed instructions and control systems."
+      "answer": "A robot is a machine that can perform tasks automatically or through programmed instructions and control systems.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "how do robots work",
-      "answer": "Robots use sensors to collect information, controllers to process it, and motors or actuators to perform actions."
+      "answer": "Robots use sensors to collect information, controllers to process it, and motors or actuators to perform actions.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is coding",
-      "answer": "Coding is the process of writing instructions that tell a computer or robot what to do."
+      "answer": "Coding is the process of writing instructions that tell a computer or robot what to do.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "why should students learn robotics",
-      "answer": "Learning robotics helps students understand programming, electronics, engineering, logical thinking, and real-world problem-solving."
+      "answer": "Learning robotics helps students understand programming, electronics, engineering, logical thinking, and real-world problem-solving.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is experiential learning",
-      "answer": "Experiential learning is a learning approach in which students gain knowledge and skills through hands-on activities, experiments, projects, and reflection."
+      "answer": "Experiential learning is a learning approach in which students gain knowledge and skills through hands-on activities, experiments, projects, and reflection.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is innovation",
-      "answer": "Innovation means developing new ideas, methods, or products, or improving existing ones to solve problems."
+      "answer": "Innovation means developing new ideas, methods, or products, or improving existing ones to solve problems.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is technology",
-      "answer": "Technology is the use of scientific knowledge, tools, and systems to solve problems and make tasks easier."
+      "answer": "Technology is the use of scientific knowledge, tools, and systems to solve problems and make tasks easier.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is engineering",
-      "answer": "Engineering is the process of designing, building, and improving machines, structures, and systems to solve practical problems."
+      "answer": "Engineering is the process of designing, building, and improving machines, structures, and systems to solve practical problems.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is science",
-      "answer": "Science is the systematic study of the natural world through observation, experimentation, and evidence."
+      "answer": "Science is the systematic study of the natural world through observation, experimentation, and evidence.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     },
     {
       "key": "what is mathematics",
-      "answer": "Mathematics is the study of numbers, patterns, shapes, quantities, and logical relationships."
+      "answer": "Mathematics is the study of numbers, patterns, shapes, quantities, and logical relationships.",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": ""
+      }
     }
   ]
 }
