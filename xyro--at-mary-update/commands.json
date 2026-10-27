@@ -1,1 +1,326 @@
 
+{
+  "commands": [
+    {
+      "key": "hello",
+      "answer": "Hello! How can I help you today?"
+    },
+    {
+      "key": "who is yashraj",
+      "answer": "yashraj is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+    },
+    {
+      "key": "who is rahul singh sir",
+      "answer": "Rahul Singh Sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+    },
+    {
+      "key": "who is nitish sir",
+      "answer": "nitish sharma sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+    },
+    {
+      "key": "who is shruti mam",
+      "answer": "Shruti mam is a co-founder of ikit lab from padmanabh innovations jaipur rajasthan."
+    },
+    {
+      "key": "who is yashraj sir",
+      "answer": "yashraj sir is an engineer at ikit lab from padmanabh innovations jaipur rajasthan. he was member of the team who created me."
+    },
+    {
+      "key": "hello what is your name",
+      "answer": "Hello I am david. How can I help you today?"
+    },
+    {
+      "key": "what is garud club",
+      "answer": "The GARUD Aeromodelling Club is a specialized student program offered through I-KIT STEAM LAB (powered by Padmanabh Innovations), which sets up NEP 2020- and CBSE-aligned STEAM, robotics, and composite skill labs in schools across"
+    },
+    {
+      "key": "tell me about garud aeromodelling club",
+      "answer": "The GARUD Aeromodelling Club is a specialized student program offered through I-KIT STEAM LAB (powered by Padmanabh Innovations), which sets up NEP 2020- and CBSE-aligned STEAM, robotics, and composite skill labs in schools across"
+    },
+
+    {
+      "key": "hi",
+      "answer": "Hello! How can I help you today?"
+    },
+    {
+      "key": "hey",
+      "answer": "Hello! How can I help you today?"
+    },
+    {
+      "key": "good morning",
+      "answer": "Good morning! I hope you are having a wonderful day."
+    },
+    {
+      "key": "good afternoon",
+      "answer": "Good afternoon! How can I help you today?"
+    },
+    {
+      "key": "good evening",
+      "answer": "Good evening! It is nice to talk to you."
+    },
+    {
+      "key": "how are you",
+      "answer": "I am doing great! Thank you for asking. How can I help you?"
+    },
+    {
+      "key": "how are you doing",
+      "answer": "I am doing well and ready to assist you."
+    },
+    {
+      "key": "what are you doing",
+      "answer": "I am here to answer your questions and help you learn new things."
+    },
+    {
+      "key": "thank you",
+      "answer": "You are most welcome! I am always happy to help."
+    },
+    {
+      "key": "thanks",
+      "answer": "You are welcome!"
+    },
+    {
+      "key": "goodbye",
+      "answer": "Goodbye! Have a great day!"
+    },
+    {
+      "key": "bye",
+      "answer": "Goodbye! See you again soon."
+    },
+    {
+      "key": "see you later",
+      "answer": "See you later! Have a wonderful day."
+    },
+    {
+      "key": "what is your name",
+      "answer": "I am David, your offline voice assistant powered by local JSON commands and offline LLM inference."
+    },
+    {
+      "key": "tell me your name",
+      "answer": "My name is David. I am your offline voice assistant."
+    },
+    {
+      "key": "who are you",
+      "answer": "I am David, an offline voice assistant designed to answer questions and provide useful information."
+    },
+    {
+      "key": "introduce yourself",
+      "answer": "Hello! I am David, your offline voice assistant. I can answer questions about education, robotics, STEAM, and my creators."
+    },
+    {
+      "key": "what can you do",
+      "answer": "I can answer questions, provide information about my creators and educational programs, and help you learn new things."
+    },
+    {
+      "key": "who created you",
+      "answer": "I was created by a team of engineers in ikit lab from padmanabh innovations jaipur rajastha. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+    },
+    {
+      "key": "who made you",
+      "answer": "I was created by a team of engineers at I-KIT Lab from Padmanabh Innovations in Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+    },
+    {
+      "key": "who developed you",
+      "answer": "I was developed by the engineering team at I-KIT Lab, Padmanabh Innovations, Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+    },
+    {
+      "key": "who is your creator",
+      "answer": "My creators are the engineering team at I-KIT Lab from Padmanabh Innovations.The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+    },
+    {
+      "key": "tell me about your creators",
+      "answer": "I was created by the engineering team at I-KIT Lab, Padmanabh Innovations, based in Jaipur, Rajasthan. The team includes : Rahul singh sir, Nitish Sharma sir, and yashraj"
+    },
+    {
+      "key": "where were you created",
+      "answer": "I was created at I-KIT Lab by the team at Padmanabh Innovations in Jaipur, Rajasthan."
+    },
+    {
+      "key": "tell me about st. mary school",
+      "answer": "saint mary school is a very beautiful school located in jagatpura, jaipur rajasthan, here students learns many new things."
+    },
+    {
+      "key": "what is st. mary school",
+      "answer": "saint Mary School is a school located in Jagatpura, Jaipur, Rajasthan, where students learn many new things."
+    },
+    {
+      "key": "where is st. mary school located",
+      "answer": "saint mary school located in jagatpura, jaipur rajasthan."
+    },
+    {
+      "key": "where is st. mary school",
+      "answer": "St. Mary School is located in Jagatpura, Jaipur, Rajasthan."
+    },
+    {
+      "key": "which city is st. mary school in",
+      "answer": "St. Mary School is located in Jaipur, Rajasthan."
+    },
+    {
+      "key": "what do students learn at st. mary school",
+      "answer": "Students at St. Mary School learn new concepts, develop skills, and participate in educational activities."
+    },
+    {
+      "key": "tell me about the students of st. mary school",
+      "answer": "St. Mary School provides students with opportunities to learn new things and develop their knowledge and skills."
+    },
+    {
+      "key": "tell me about padmanabh innovations",
+      "answer": "Padmanabh Innovations LLP is an Indian educational and technology startup based in Jaipur, Rajasthan, that focuses on K-12 STEAM (Science, Technology, Engineering, Art, and Mathematics) education, robotics, and experiential learning"
+    },
+    {
+      "key": "what is padmanabh innovations",
+      "answer": "Padmanabh Innovations LLP is an educational and technology startup based in Jaipur, Rajasthan, focused on STEAM education, robotics, and experiential learning."
+    },
+    {
+      "key": "what does padmanabh innovations do",
+      "answer": "Padmanabh Innovations works in educational technology, robotics, STEAM education, and experiential learning for students."
+    },
+    {
+      "key": "where is padmanabh innovations located",
+      "answer": "Padmanabh Innovations LLP is based in Jaipur, Rajasthan, India."
+    },
+    {
+      "key": "tell me about the work of padmanabh innovations",
+      "answer": "Padmanabh Innovations focuses on helping students learn through science, technology, engineering, arts, mathematics, robotics, and practical activities."
+    },
+    {
+      "key": "what is the main goal of padmanabh innovations",
+      "answer": "Its goal is to make education more engaging through hands-on learning, robotics, technology, and interdisciplinary STEAM activities."
+    },
+    {
+      "key": "what is padmanabh innovations famous for",
+      "answer": "Padmanabh Innovations focuses on STEAM education, robotics, and experiential learning in schools."
+    },
+    {
+      "key": "who is gopal krishnan sharma sir",
+      "answer": "Gopal krishnan sharma sir is the ceo of padmanabh innovations llp company jaipur rajasthan"
+    },
+    {
+      "key": "tell me about gopal krishnan sharma sir",
+      "answer": "Gopal Krishnan Sharma Sir is the CEO of Padmanabh Innovations LLP, based in Jaipur, Rajasthan."
+    },
+    {
+      "key": "who is the ceo of padmanabh innovations",
+      "answer": "Gopal Krishnan Sharma Sir is the CEO of Padmanabh Innovations LLP in Jaipur, Rajasthan."
+    },
+    {
+      "key": "what is the role of gopal krishnan sharma sir",
+      "answer": "Gopal Krishnan Sharma Sir serves as the CEO of Padmanabh Innovations LLP."
+    },
+    {
+      "key": "tell me about ikit lab",
+      "answer": "I-KIT Lab is an educational and technological learning environment associated with Padmanabh Innovations, where students explore robotics, science, engineering, and technology."
+    },
+    {
+      "key": "what is ikit lab",
+      "answer": "I-KIT Lab is a hands-on learning environment where students can explore science, technology, engineering, robotics, and innovation."
+    },
+    {
+      "key": "what do students do in ikit lab",
+      "answer": "Students can explore robotics, build projects, experiment with technology, and develop problem-solving skills through hands-on learning."
+    },
+    {
+      "key": "what is ikit steam lab",
+      "answer": "The I-KIT STEAM Lab (developed by Padmanabh Innovations) is an innovative, transdisciplinary educational ecosystem set up in K-12 schools across India, with its headquarters in Jaipur, Rajasthan"
+    },
+    {
+      "key": "tell me about ikit steam lab",
+      "answer": "The I-KIT STEAM Lab is an educational ecosystem developed by Padmanabh Innovations that promotes hands-on STEAM learning in schools across India."
+    },
+    {
+      "key": "what is the purpose of ikit steam lab",
+      "answer": "The purpose of I-KIT STEAM Lab is to help students understand concepts through practical activities, experimentation, robotics, and interdisciplinary learning."
+    },
+    {
+      "key": "who developed ikit steam lab",
+      "answer": "The I-KIT STEAM Lab was developed by Padmanabh Innovations."
+    },
+    {
+      "key": "what can students learn in ikit steam lab",
+      "answer": "Students can learn science, technology, engineering, robotics, creative design, mathematics, and problem-solving through practical projects."
+    },
+    {
+      "key": "why is ikit steam lab important",
+      "answer": "I-KIT STEAM Lab encourages curiosity, creativity, critical thinking, collaboration, and practical learning among students."
+    },
+    {
+      "key": "what is steam",
+      "answer": "STEAM is an educational framework that stands for Science, Technology, Engineering, the Arts, and Mathematics. Unlike traditional teaching methods that treat subjects in isolated compartments, STEAM integrates these five disciplines into a unified, inquiry-based learning experience. Adding the Arts (which includes visual arts, humanities, music, design, and drama) to the core technical pillars of STEM brings human empathy, design thinking, and creative expression into problem-solving."
+    },
+    {
+      "key": "what does steam stand for",
+      "answer": "STEAM stands for Science, Technology, Engineering, Arts, and Mathematics."
+    },
+    {
+      "key": "what is steam education",
+      "answer": "STEAM education combines science, technology, engineering, arts, and mathematics to help students learn through practical activities, creativity, and problem-solving."
+    },
+    {
+      "key": "why do we learn steam",
+      "answer": "STEAM education helps students develop creativity, logical thinking, teamwork, and problem-solving skills through practical learning."
+    },
+    {
+      "key": "what is the difference between stem and steam",
+      "answer": "STEM stands for Science, Technology, Engineering, and Mathematics, while STEAM also includes the Arts to encourage creativity and design thinking."
+    },
+    {
+      "key": "why is art included in steam",
+      "answer": "Arts is included in STEAM to encourage creativity, imagination, design thinking, and innovative approaches to solving problems."
+    },
+    {
+      "key": "what are the five components of steam",
+      "answer": "The five components of STEAM are Science, Technology, Engineering, Arts, and Mathematics."
+    },
+    {
+      "key": "give me an example of steam",
+      "answer": "Building a robot combines science to understand movement, technology to use electronics, engineering to design the robot, arts to create its appearance, and mathematics to calculate measurements."
+    },
+    {
+      "key": "how does steam help students",
+      "answer": "STEAM helps students connect classroom knowledge with real-world problems and develop creativity, teamwork, critical thinking, and practical skills."
+    },
+    {
+      "key": "what is robotics",
+      "answer": "Robotics is a field of technology that involves designing, building, programming, and operating robots."
+    },
+    {
+      "key": "what is a robot",
+      "answer": "A robot is a machine that can perform tasks automatically or through programmed instructions and control systems."
+    },
+    {
+      "key": "how do robots work",
+      "answer": "Robots use sensors to collect information, controllers to process it, and motors or actuators to perform actions."
+    },
+    {
+      "key": "what is coding",
+      "answer": "Coding is the process of writing instructions that tell a computer or robot what to do."
+    },
+    {
+      "key": "why should students learn robotics",
+      "answer": "Learning robotics helps students understand programming, electronics, engineering, logical thinking, and real-world problem-solving."
+    },
+    {
+      "key": "what is experiential learning",
+      "answer": "Experiential learning is a learning approach in which students gain knowledge and skills through hands-on activities, experiments, projects, and reflection."
+    },
+    {
+      "key": "what is innovation",
+      "answer": "Innovation means developing new ideas, methods, or products, or improving existing ones to solve problems."
+    },
+    {
+      "key": "what is technology",
+      "answer": "Technology is the use of scientific knowledge, tools, and systems to solve problems and make tasks easier."
+    },
+    {
+      "key": "what is engineering",
+      "answer": "Engineering is the process of designing, building, and improving machines, structures, and systems to solve practical problems."
+    },
+    {
+      "key": "what is science",
+      "answer": "Science is the systematic study of the natural world through observation, experimentation, and evidence."
+    },
+    {
+      "key": "what is mathematics",
+      "answer": "Mathematics is the study of numbers, patterns, shapes, quantities, and logical relationships."
+    }
+  ]
+}
