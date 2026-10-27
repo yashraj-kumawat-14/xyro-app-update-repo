@@ -2,7 +2,7 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Hello! welcome the saint mary school's annual function",
+      "answer": "Hello! welcome to the saint mary school's symphonia annual function",
       "action": {
         "motion": false,
         "motion_type": "forward",
