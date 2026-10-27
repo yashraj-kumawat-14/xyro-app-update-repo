@@ -2,13 +2,13 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Hello! How can I help you today?",
+      "answer": "Hello! welcome th saint mary school's annual function",
       "action": {
         "motion": false,
         "motion_type": "forward",
-        "show_image": false,
-        "image_path": "",
-        "show_image_till_seconds": 5,
+        "show_image": true,
+        "image_path": "images/welcome.png",
+        "show_image_till_seconds": 7,
         "show_video": false,
         "video_path": "",
         "video_playback_type": "once",
