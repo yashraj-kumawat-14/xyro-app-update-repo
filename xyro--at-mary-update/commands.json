@@ -1614,6 +1614,63 @@
         "play_song": false,
         "song_path": ""
       }
+    },
+    {
+      "key": "play shape of you song",
+      "answer": "Now playing shape of you song",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": true,
+        "song_path": "songs/shape_of_you.mp3"
+      }
+    },
+    {
+      "key": "play music",
+      "answer": "Now i am starting playing music",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": true,
+        "song_path": "songs/cheap_thrills.mp3"
+      }
+    },
+    {
+      "key": "stop playing song",
+      "answer": "ok will be stopped now",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": "5",
+        "play_song": false,
+        "song_path": "songs/shape_of_you.mp3"
+      }
     }
   ]
 }
