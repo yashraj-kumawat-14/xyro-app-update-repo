@@ -2,19 +2,19 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Hello! welcome th saint mary school's annual function. have a great day",
+      "answer": "Hello! welcome the saint mary school's annual function",
       "action": {
         "motion": false,
         "motion_type": "forward",
         "show_image": true,
         "image_path": "images/welcome.png",
-        "show_image_till_seconds": 7,
+        "show_image_till_seconds": 10,
         "show_video": false,
         "video_path": "",
         "video_playback_type": "once",
         "show_webpage": false,
         "webpage_path": "",
-        "show_webpage_till_seconds": "5",
+        "show_webpage_till_seconds": "10",
         "play_song": false,
         "song_path": ""
       }
@@ -211,13 +211,13 @@
     },
     {
       "key": "hello what is your name",
-      "answer": "Hello I am david. How can I help you today?",
+      "answer": "Hello I am david. welcome to the sain mary school's annual function",
       "action": {
         "motion": false,
         "motion_type": "forward",
-        "show_image": false,
-        "image_path": "",
-        "show_image_till_seconds": 5,
+        "show_image": true,
+        "image_path": "images/welcome.png",
+        "show_image_till_seconds": 10,
         "show_video": false,
         "video_path": "",
         "video_playback_type": "once",
