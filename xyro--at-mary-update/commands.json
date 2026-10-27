@@ -1,4 +1,3 @@
-
 {
   "commands": [
     {
@@ -9,18 +8,20 @@
       "key": "who is current bisop of jaipur",
       "answer": "The current bishop of jaipur is joseph sir"
     },
-    {"key": "tell me about joseph sir",
+    {
+      "key": "tell me about joseph sir",
       "answer": "Joseph sir is the current bishop of jaipur and chief guest at annual function at our st. mary school"
     },
-    {"key": "tell me about captain swati sharma mam",
+    {
+      "key": "tell me about captain swati sharma mam",
       "answer": "Captain Swati Sharma was a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services. Over a career spanning more than a decade, she has successfully transitioned from a military leadership role into top-tier public service and administration"
     },
-    ,
-    {"key": "who is captain swati sharma mam",
+    {
+      "key": "who is captain swati sharma mam",
       "answer": "Captain Swati Sharma was a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services. Over a career spanning more than a decade, she has successfully transitioned from a military leadership role into top-tier public service and administration"
     },
-    ,
-    {"key": "who is swati mam",
+    {
+      "key": "who is swati mam",
       "answer": "Captain Swati Sharma was a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services. Over a career spanning more than a decade, she has successfully transitioned from a military leadership role into top-tier public service and administration"
     },
     {
@@ -55,7 +56,6 @@
       "key": "tell me about garud aeromodelling club",
       "answer": "The GARUD Aeromodelling Club is a specialized student program offered through I-KIT STEAM LAB (powered by Padmanabh Innovations), which sets up NEP 2020- and CBSE-aligned STEAM, robotics, and composite skill labs in schools across"
     },
-
     {
       "key": "hi",
       "answer": "Hello! How can I help you today?"
