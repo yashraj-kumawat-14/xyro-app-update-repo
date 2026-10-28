@@ -21,7 +21,7 @@
     },
     {
       "key": "tell me about joseph sir",
-      "answer": "Joseph sir is the bishop of jaipur and chief guest at saint mary school's symphonia annual function",
+      "answer": "Joseph sir is the bishop of jaipur.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -40,7 +40,7 @@
     },
     {
       "key": "tell me about captain swati sharma",
-      "answer": "Captain Swati Sharma is a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services. she is also chief guest of saint mary school's symphonia annual function",
+      "answer": "Captain Swati Sharma is a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services. We are proud of you.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -97,7 +97,7 @@
     },
     {
       "key": "tell me about doris mam",
-      "answer": "Doris mam is sister at saint mary school. she is also chief guest at saint mary school's symphonia annual function",
+      "answer": "Doris mam is sister at saint mary school.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -116,7 +116,7 @@
     },
     {
       "key": "who is captain swati sharma",
-      "answer": "Captain Swati Sharma (Retd.) is a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services.",
+      "answer": "Captain Swati Sharma (Retd.) is a proud Indian Army veteran and a distinguished civil servant currently serving as the Commandant of the Rajasthan Home Guards Services.  We are proud of you",
       "action": {
         "motion": false,
         "motion_type": "forward",
