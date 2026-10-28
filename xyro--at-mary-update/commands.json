@@ -2,7 +2,7 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Hello! welcome to the saint mary school's symphonia annual function",
+      "answer": "Namashkar I am david. welcome to the saint mary school's symphonia 2026",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -26,7 +26,7 @@
         "motion": false,
         "motion_type": "forward",
         "show_image": true,
-        "image_path": "images/joseph_sir.png",
+        "image_path": "images/joseph_sir.jpeg",
         "show_image_till_seconds": 7,
         "show_video": false,
         "video_path": "",
@@ -64,7 +64,7 @@
         "motion": false,
         "motion_type": "forward",
         "show_image": true,
-        "image_path": "images/joseph_sir.png",
+        "image_path": "images/joseph_sir.jpeg",
         "show_image_till_seconds": 7,
         "show_video": false,
         "video_path": "",
@@ -325,7 +325,7 @@
     },
     {
       "key": "hello what is your name",
-      "answer": "Hello I am david. welcome to the saint mary school's annual function",
+      "answer": "Namashkar I am david. welcome to the saint mary school's symphonia 2026",
       "action": {
         "motion": false,
         "motion_type": "forward",
