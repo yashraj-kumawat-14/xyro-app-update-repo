@@ -2,7 +2,7 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Namashkar I am david. welcome to the saint mary school's symphonia 2026",
+      "answer": "Namashkar I am xyro. welcome to the saint mary school's symphonia 2026",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -325,7 +325,7 @@
     },
     {
       "key": "hello what is your name",
-      "answer": "Namashkar I am david. welcome to the saint mary school's symphonia 2026",
+      "answer": "Namashkar I am xyro. welcome to the saint mary school's symphonia 2026",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -629,7 +629,7 @@
     },
     {
       "key": "what is your name",
-      "answer": "I am David, your offline voice assistant powered by local JSON commands and offline LLM inference.",
+      "answer": "I am xyro, your offline voice assistant powered by local JSON commands and offline LLM inference.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -648,7 +648,7 @@
     },
     {
       "key": "tell me your name",
-      "answer": "My name is David. I am your offline voice assistant.",
+      "answer": "My name is xyro. I am your offline voice assistant.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -667,7 +667,7 @@
     },
     {
       "key": "who are you",
-      "answer": "I am David, an offline voice assistant designed to answer questions and provide useful information.",
+      "answer": "I am xyro, an offline voice assistant designed to answer questions and provide useful information.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -686,7 +686,7 @@
     },
     {
       "key": "introduce yourself",
-      "answer": "Hello! I am David, your offline voice assistant. I can answer questions about education, robotics, STEAM, and my creators.",
+      "answer": "Hello! I am xyro, your offline voice assistant. I can answer questions about education, robotics, STEAM, and my creators.",
       "action": {
         "motion": false,
         "motion_type": "forward",
