@@ -2,7 +2,7 @@
   "commands": [
     {
       "key": "hello",
-      "answer": "Namashkar I am xyro. welcome to the saint mary school's symphonia 2026",
+      "answer": "Namashkar I am david. welcome to the saint mary school's symphonia 2026",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -15,6 +15,82 @@
         "show_webpage": false,
         "webpage_path": "",
         "show_webpage_till_seconds": 10,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "where are you right now",
+      "answer": "I am currently located at I-KIT STEAM LAB, Padmanabh Innovations LLP in Jagatpura, Jaipur, Rajasthan, India, hosting Saint Mary School's Symphonia 2026!",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 5,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "what is your location",
+      "answer": "I am currently located at I-KIT STEAM LAB, Padmanabh Innovations LLP in Jagatpura, Jaipur, Rajasthan, India, hosting Saint Mary School's Symphonia 2026!",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 5,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "where are you",
+      "answer": "I am currently located at I-KIT STEAM LAB, Padmanabh Innovations LLP in Jagatpura, Jaipur, Rajasthan, India, hosting Saint Mary School's Symphonia 2026!",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 5,
+        "play_song": false,
+        "song_path": ""
+      }
+    },
+    {
+      "key": "where are you located",
+      "answer": "I am currently located at I-KIT STEAM LAB, Padmanabh Innovations LLP in Jagatpura, Jaipur, Rajasthan, India, hosting Saint Mary School's Symphonia 2026!",
+      "action": {
+        "motion": false,
+        "motion_type": "forward",
+        "show_image": false,
+        "image_path": "",
+        "show_image_till_seconds": 5,
+        "show_video": false,
+        "video_path": "",
+        "video_playback_type": "once",
+        "show_webpage": false,
+        "webpage_path": "",
+        "show_webpage_till_seconds": 5,
         "play_song": false,
         "song_path": ""
       }
@@ -325,7 +401,7 @@
     },
     {
       "key": "hello what is your name",
-      "answer": "Namashkar I am xyro. welcome to the saint mary school's symphonia 2026",
+      "answer": "Namashkar I am david. welcome to the saint mary school's symphonia 2026",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -629,7 +705,7 @@
     },
     {
       "key": "what is your name",
-      "answer": "I am xyro, your offline voice assistant powered by local JSON commands and offline LLM inference.",
+      "answer": "I am David, your offline voice assistant powered by local JSON commands and offline LLM inference.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -648,7 +724,7 @@
     },
     {
       "key": "tell me your name",
-      "answer": "My name is xyro. I am your offline voice assistant.",
+      "answer": "My name is David. I am your offline voice assistant.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -667,7 +743,7 @@
     },
     {
       "key": "who are you",
-      "answer": "I am xyro, an offline voice assistant designed to answer questions and provide useful information.",
+      "answer": "I am David, an offline voice assistant designed to answer questions and provide useful information.",
       "action": {
         "motion": false,
         "motion_type": "forward",
@@ -686,7 +762,7 @@
     },
     {
       "key": "introduce yourself",
-      "answer": "Hello! I am xyro, your offline voice assistant. I can answer questions about education, robotics, STEAM, and my creators.",
+      "answer": "Hello! I am David, your offline voice assistant. I can answer questions about education, robotics, STEAM, and my creators.",
       "action": {
         "motion": false,
         "motion_type": "forward",
