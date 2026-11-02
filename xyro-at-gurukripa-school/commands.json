@@ -1298,8 +1298,8 @@
       "action": {
         "motion": false,
         "motion_type": "forward",
-        "show_image": false,
-        "image_path": "",
+        "show_image": true,
+        "image_path": "assets/images/ikit.jpeg",
         "show_image_till_seconds": 5,
         "show_video": false,
         "video_path": "",
@@ -1317,8 +1317,8 @@
       "action": {
         "motion": false,
         "motion_type": "forward",
-        "show_image": false,
-        "image_path": "",
+        "show_image": true,
+        "image_path": "assets/images/ikit.jpeg",
         "show_image_till_seconds": 5,
         "show_video": false,
         "video_path": "",
@@ -1336,8 +1336,8 @@
       "action": {
         "motion": false,
         "motion_type": "forward",
-        "show_image": false,
-        "image_path": "",
+        "show_image": true,
+        "image_path": "assets/images/ikit.jpeg",
         "show_image_till_seconds": 5,
         "show_video": false,
         "video_path": "",
@@ -1873,6 +1873,281 @@
     {
       "key": "tera naam kya hai",
       "answer": "My name is XYRO! I am your AI voice assistant at Gurukripa Public School.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "namaste xyro",
+      "answer": "Namaste! Welcome to Gurukripa Public School.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "kaise ho xyro",
+      "answer": "I am doing great! Thank you for asking. How can I help you today?",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "aaj ka mausam kaisa hai",
+      "answer": "I don't have a live weather sensor yet, but you can check local weather forecasts on your phone.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "subah ho gayi",
+      "answer": "Good morning! I hope you have a productive and joyful day.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "good night xyro",
+      "answer": "Good night! Have a peaceful sleep.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum kya kar sakte ho",
+      "answer": "I can answer questions, play music, show images, and guide you around Gurukripa Public School.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tumhe kisne banaya",
+      "answer": "I was developed by the engineering team at I-KIT Lab, Padmanabh Innovations.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum kitne saal ke ho",
+      "answer": "I am a digital AI assistant, so I don't have an age in human years!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum kaha rehte ho",
+      "answer": "I live inside this AI robot right here at Gurukripa Public School.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "shukriya xyro",
+      "answer": "You are most welcome! I am always happy to help.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "school ka naam kya hai",
+      "answer": "The school's name is Gurukripa Public School, located in Ringus, Baori, Sikar.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "principal sir kaun hain",
+      "answer": "Please consult the school office directory for current principal and staff details.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "school kaha par hai",
+      "answer": "Gurukripa Public School is located in Ringus, Baori, Sikar, Rajasthan.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "aaj school me kya khas hai",
+      "answer": "Today we are celebrating Melodia 2026, our grand annual function at Gurukripa Public School!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "what is melodia",
+      "answer": "Melodia 2026 is the grand annual function celebration of Gurukripa Public School!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tell me about melodia",
+      "answer": "Melodia 2026 is the annual function celebration of Gurukripa Public School, showcasing student performances and achievements.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "annual function ka naam kya hai",
+      "answer": "The name of our annual function is Melodia 2026!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "office kahan hai",
+      "answer": "The administrative office is located near the main entrance of the school building.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "library kahan hai",
+      "answer": "The central school library is located on the ground floor.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "computer lab kahan hai",
+      "answer": "The computer and STEAM lab is located on the first floor.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "sports ground kahan hai",
+      "answer": "The sports ground is situated right behind the main school building.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "canteen kahan hai",
+      "answer": "The school canteen is located near the activity hall.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "reception kahan hai",
+      "answer": "The reception counter is right at the main entrance gate.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tumhari speed kya hai",
+      "answer": "I can process speech and queries in milliseconds using local on-device AI.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tumhara battery level kya hai",
+      "answer": "My internal battery is operating normally.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum gane suna sakte ho",
+      "answer": "Yes! You can ask me to play music or songs.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum dance kar sakte ho",
+      "answer": "I can move forward and perform motor movements when commanded.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum english bol sakte ho",
+      "answer": "Yes, I speak in English and can understand your questions!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum hindi samajhte ho",
+      "answer": "Yes! I understand your Hindi and Hinglish questions and answer in English.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum photo dikha sakte ho",
+      "answer": "Yes, I can display images, graphics, and webpages on my screen.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum video chala sakte ho",
+      "answer": "Yes, I can play educational videos on my screen.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum internet ke bina chalte ho",
+      "answer": "Yes! I am 100% capable of working completely offline without internet.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tumhara dimaag kahan hai",
+      "answer": "My brain consists of high-speed processor chips, AI neural models, and local code.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "padhai kyun zaroori hai",
+      "answer": "Education helps build knowledge, critical thinking skills, and opens pathways for a bright future.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "science kya hota hai",
+      "answer": "Science is the systematic study of the physical and natural world through observation and experimentation.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "robotics kya hai",
+      "answer": "Robotics is the engineering field dedicated to designing, building, and programming intelligent machines.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "ai kya hai",
+      "answer": "Artificial Intelligence allows computers and robots to learn, reason, and solve problems like humans.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "maths kya hai",
+      "answer": "Mathematics is the science of numbers, shapes, logic, and relationships.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "computer kya hai",
+      "answer": "A computer is an electronic device that stores, processes, and calculates data according to instructions.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "earth gol kyun hai",
+      "answer": "Earth is spherical due to gravity pulling its mass evenly toward its center.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "sun kya hai",
+      "answer": "The Sun is a giant star composed of hydrogen and helium gas that powers solar system light and heat.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "moon kya hai",
+      "answer": "The Moon is Earth's natural satellite that orbits our planet every 27 days.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "gravity kya hoti hai",
+      "answer": "Gravity is the universal force that pulls objects toward the center of massive bodies like Earth.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "kya haal chaal hai",
+      "answer": "Everything is going great! I am ready to assist you.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "kya chal raha hai",
+      "answer": "I am here listening and ready to answer your questions!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "chutkula sunao",
+      "answer": "Why did the computer go to the doctor? Because it had a virus!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "kahani sunao",
+      "answer": "Once upon a time, curiosity led students to build an AI robot named XYRO, and they learned STEAM skills together!",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "mujhe gana sunna hai",
+      "answer": "Sure! Say 'play music' to start playing a song.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": true, "song_path": "songs/cheap_thrills.mp3" }
+    },
+    {
+      "key": "mujhe photo dekhni hai",
+      "answer": "Sure! Tap settings or ask me to show images.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": true, "image_path": "images/welcome.png", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "aaj ka vichar kya hai",
+      "answer": "Thought for the day: Learning is a treasure that will follow its owner everywhere.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum thak gaye ho kya",
+      "answer": "Robots don't get tired! I am always 100% energetic and ready to help.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum so sakte ho",
+      "answer": "I enter standby mode when idle to conserve battery.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tum mere dost ho",
+      "answer": "Yes! I am your friendly AI robot assistant and best friend.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "alvida xyro",
+      "answer": "Goodbye! Have a fantastic day ahead.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "phir milenge",
+      "answer": "See you again soon! Take care.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     }
   ]
