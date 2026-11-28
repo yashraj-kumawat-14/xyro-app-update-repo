@@ -1931,8 +1931,33 @@
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
-      "key": "principal sir kaun hain",
-      "answer": "Please consult the school office directory for current principal and staff details.",
+      "key": "principal mam kaun hain",
+      "answer": "Respected Sister Neelima is the Principal of St. Teresas School, Jhotwara, Jaipur. She is a visionary educational administrator guiding our school toward academic excellence and holistic development.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "who is principal mam",
+      "answer": "Respected Sister Neelima is the Principal of St. Teresas School, Jhotwara, Jaipur.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "who is the principal",
+      "answer": "Respected Sister Neelima is the Principal of St. Teresas School, Jhotwara, Jaipur.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "principal kaun hain",
+      "answer": "Respected Sister Neelima is the Principal of St. Teresas School, Jhotwara, Jaipur.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "who is sister neelima",
+      "answer": "Respected Sister Neelima is the Principal of St. Teresas School, Jhotwara, Jaipur. She is a dedicated leader committed to providing quality education and inspiring values in every student.",
+      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
+    },
+    {
+      "key": "tell me about sister neelima",
+      "answer": "Respected Sister Neelima is the Principal of St. Teresas School, Jhotwara, Jaipur. She is a dedicated leader committed to providing quality education and inspiring values in every student.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
@@ -1962,112 +1987,62 @@
     },
     {
       "key": "who is chief guest",
-      "answer": "The chief guest for Satyameva Jayate 2026 is Respected Mr. Mahindra Sir, Chairman of St. Teresas School, Jhotwara, Jaipur. He is an energetic, influential, and inspiring leader whose vision and dedication inspire self-confidence and welfare in everyone.",
+      "answer": "The Chief Guest for Satyameva Jayate 2026 is Respected Brigadier Taj Hothi Sir, a distinguished Infantry officer of the Indian Army with over 30 years of service, presently President of 21 SSB Bhopal.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "who is the chief guest",
-      "answer": "The chief guest for Satyameva Jayate 2026 is Respected Mr. Mahindra Sir, Chairman of St. Teresas School, Jhotwara, Jaipur. He is an energetic, influential, and inspiring leader whose vision and dedication inspire self-confidence and welfare in everyone.",
+      "answer": "The Chief Guest for Satyameva Jayate 2026 is Respected Brigadier Taj Hothi Sir, a distinguished Infantry officer of the Indian Army with over 30 years of service, presently President of 21 SSB Bhopal.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "chief guest kaun hai",
-      "answer": "The chief guest for Satyameva Jayate 2026 is Respected Mr. Mahindra Sir, Chairman of St. Teresas School, Jhotwara, Jaipur. He is an energetic, influential, and inspiring leader whose vision and dedication inspire self-confidence and welfare in everyone.",
+      "answer": "The Chief Guest for Satyameva Jayate 2026 is Respected Brigadier Taj Hothi Sir, a distinguished Infantry officer of the Indian Army and President of 21 SSB Bhopal.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "chief guest kon hai",
-      "answer": "The chief guest for Satyameva Jayate 2026 is Respected Mr. Mahindra Sir, Chairman of St. Teresas School, Jhotwara, Jaipur. He is an energetic, influential, and inspiring leader whose vision and dedication inspire self-confidence and welfare in everyone.",
+      "answer": "The Chief Guest for Satyameva Jayate 2026 is Respected Brigadier Taj Hothi Sir, a distinguished Infantry officer of the Indian Army and President of 21 SSB Bhopal.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "chief guest kaun hain",
-      "answer": "The chief guest for Satyameva Jayate 2026 is Respected Mr. Mahindra Sir, Chairman of St. Teresas School, Jhotwara, Jaipur. He is an energetic, influential, and inspiring leader whose vision and dedication inspire self-confidence and welfare in everyone.",
+      "answer": "The Chief Guest for Satyameva Jayate 2026 is Respected Brigadier Taj Hothi Sir, a distinguished Infantry officer of the Indian Army and President of 21 SSB Bhopal.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "chief guest ke bare me batao",
-      "answer": "Respected Mr. Mahindra Sir, Chairman of St. Teresas School, Jhotwara, Jaipur, is our Chief Guest for Satyameva Jayate 2026. He is a visionary, hard-working, and diligent leader dedicated to society and quality education.",
+      "answer": "Respected Brigadier Taj Hothi Sir, President of 21 SSB Bhopal and decorated Infantry officer, is our Chief Guest for Satyameva Jayate 2026 at St. Teresas School, Jhotwara, Jaipur.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "tell me about chief guest",
-      "answer": "Respected Mr. Mahindra Sir, Chairman of St. Teresas School, Jhotwara, Jaipur, is our Chief Guest for Satyameva Jayate 2026. He is a visionary, hard-working, and diligent leader dedicated to society and quality education.",
+      "answer": "Respected Brigadier Taj Hothi Sir, President of 21 SSB Bhopal and decorated Infantry officer, is our Chief Guest for Satyameva Jayate 2026 at St. Teresas School, Jhotwara, Jaipur.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
-      "key": "who is mahindra sir",
-      "answer": "Respected Mr. Mahindra Sir is the Chairman of St. Teresas School, Jhotwara, Jaipur, and the Chief Guest for Satyameva Jayate 2026. His energetic personality, oratory, and leadership inspire everyone.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "tell me about mahindra sir",
-      "answer": "Respected Mr. Mahindra Sir is the Chairman of St. Teresas School, Jhotwara, Jaipur, and the Chief Guest for Satyameva Jayate 2026. His energetic personality, oratory, and leadership inspire everyone.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "mahindra sir kaun hain",
-      "answer": "Respected Mr. Mahindra Sir is the Chairman of St. Teresas School, Jhotwara, Jaipur, and the Chief Guest for Satyameva Jayate 2026. His energetic personality, oratory, and leadership inspire everyone.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "mahindra sir kon hain",
-      "answer": "Respected Mr. Mahindra Sir is the Chairman of St. Teresas School, Jhotwara, Jaipur, and the Chief Guest for Satyameva Jayate 2026. His energetic personality, oratory, and leadership inspire everyone.",
+      "key": "who is the chief guest of satyameva jayate",
+      "answer": "The Chief Guest for our annual function Satyameva Jayate 2026 is Respected Brigadier Taj Hothi Sir.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "who is chairman sir",
-      "answer": "Respected Mr. Mahindra Sir is the Chairman of St. Teresas School, Jhotwara, Jaipur.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "chairman sir kaun hain",
-      "answer": "Respected Mr. Mahindra Sir is the Chairman of St. Teresas School, Jhotwara, Jaipur.",
+      "answer": "Our school leadership at St. Teresas School, Jhotwara, Jaipur is guided by our Principal, Respected Sister Neelima.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "who is director sir",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur. He is a visionary educational leader guiding our school toward academic excellence and innovation.",
+      "answer": "Our school is led by our Principal, Respected Sister Neelima, at St. Teresas School, Jhotwara, Jaipur.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
-      "key": "director sir kaun hain",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur. He is a visionary educational leader guiding our school toward academic excellence and innovation.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "who is rakesh sir",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur, dedicated to empowering students through quality education, discipline, and modern STEAM learning.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "tell me about rakesh sir",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur, dedicated to empowering students through quality education, discipline, and modern STEAM learning.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "rakesh sir kaun hain",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur, dedicated to empowering students through quality education, discipline, and modern STEAM learning.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "rakesh sir kon hain",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur, dedicated to empowering students through quality education, discipline, and modern STEAM learning.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "who is the director of saint teresas school, jhotwara jaipur",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur.",
-      "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
-    },
-    {
-      "key": "saint teresas school, jhotwara jaipur ke director kaun hain",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur.",
+      "key": "who is principal sister neelima",
+      "answer": "Our school leadership at St. Teresas School, Jhotwara, Jaipur is guided by our Principal, Respected Sister Neelima.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
       "key": "director kaun hain",
-      "answer": "Respected Mr. Rakesh Sir is the Director of St. Teresas School, Jhotwara, Jaipur.",
+      "answer": "St. Teresas School, Jhotwara, Jaipur is guided by our Principal, Respected Sister Neelima.",
       "action": { "motion": false, "motion_type": "forward", "show_image": false, "image_path": "", "show_image_till_seconds": 5, "show_video": false, "video_path": "", "video_playback_type": "once", "show_webpage": false, "webpage_path": "", "show_webpage_till_seconds": 5, "play_song": false, "song_path": "" }
     },
     {
